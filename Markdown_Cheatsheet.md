@@ -67,7 +67,7 @@ __This will also be bold__
 <br />
 
 <div id='lists'></div>
-* # Lists
+- # Lists
     ## 1. Unordered
     > ```
     > * Item01
@@ -95,7 +95,7 @@ __This will also be bold__
 <br />
 
 <div id='links'></div>
-* # Links
+- # Links
 
 > ```
 > [Get Access to Google](https://www.google.ca)
@@ -115,7 +115,7 @@ __This will also be bold__
 <br />
 
 <div id='Images'></div>
-* # Images
+- # Images
 
 > ```
 > ![Get Access to Image](./img/github_logo.jpg)
@@ -135,7 +135,7 @@ __This will also be bold__
 <br />
 
 <div id='backslash_escapes'></div>
-* # Backslash Escapes
+- # Backslash Escapes
 > ```
 > \* text \*
 > ```
