@@ -8,6 +8,9 @@
 - [Backslash Escapes](#backslash_escapes)
 
 <br />
+![fun](./img/ooooooh.gif)
+
+<br />
 <br />
 
 <div id='headers'></div>
