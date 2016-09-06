@@ -11,7 +11,7 @@
 <br />
 
 <div id='headers'></div>
-- # Headers
+# Headers
 
 > ```
 > # title01
@@ -33,7 +33,7 @@
 <br />
 
 <div id='emphasis'></div>
-- # Emphasis
+# Emphasis
 
 > ```
 > *This text will be italic* 
@@ -53,7 +53,7 @@ __This will also be bold__
 <br />
 
 <div id='blockquotes'></div>
-- # Blockquotes
+# Blockquotes
 
 > ```
 > > This is blockquote
@@ -67,7 +67,7 @@ __This will also be bold__
 <br />
 
 <div id='lists'></div>
-- # Lists
+# Lists
     ## 1. Unordered
     > ```
     > * Item01
@@ -95,7 +95,7 @@ __This will also be bold__
 <br />
 
 <div id='links'></div>
-- # Links
+# Links
 
 > ```
 > [Get Access to Google](https://www.google.ca)
@@ -115,7 +115,7 @@ __This will also be bold__
 <br />
 
 <div id='Images'></div>
-- # Images
+# Images
 
 > ```
 > ![Get Access to Image](./img/github_logo.jpg)
@@ -135,7 +135,7 @@ __This will also be bold__
 <br />
 
 <div id='backslash_escapes'></div>
-- # Backslash Escapes
+# Backslash Escapes
 > ```
 > \* text \*
 > ```
@@ -143,6 +143,7 @@ __This will also be bold__
 \* text \*
 
 > `Markdown provides backslash escapes for the following > characteres:`
+>
 > 1. \\ backslash
 > 2. \` backtick
 > 3. \* asterisk
